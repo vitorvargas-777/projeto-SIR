@@ -1,8 +1,8 @@
 # Modelagem Matemática de uma Epidemia (Modelo SIR) 🦠
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Google Colab](https://shields.io)
 
 Projeto de Física Computacional focado na modelagem matemática da propagação de doenças infecciosas, utilizando o modelo SIR (Suscetível-Infectado-Removido).
 
